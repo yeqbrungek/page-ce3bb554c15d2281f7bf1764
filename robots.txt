@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--naikocloud-cn3r594m.com/sitemap.xml
